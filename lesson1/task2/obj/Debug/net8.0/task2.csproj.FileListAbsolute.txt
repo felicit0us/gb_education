@@ -1,0 +1,15 @@
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.sourcelink.json
+E:\prog_dev\gb_education\lesson1\task2\bin\Debug\net8.0\task2.exe
+E:\prog_dev\gb_education\lesson1\task2\bin\Debug\net8.0\task2.deps.json
+E:\prog_dev\gb_education\lesson1\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+E:\prog_dev\gb_education\lesson1\task2\bin\Debug\net8.0\task2.dll
+E:\prog_dev\gb_education\lesson1\task2\bin\Debug\net8.0\task2.pdb
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.dll
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\refint\task2.dll
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.pdb
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+E:\prog_dev\gb_education\lesson1\task2\obj\Debug\net8.0\ref\task2.dll
